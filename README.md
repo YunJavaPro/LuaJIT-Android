@@ -38,4 +38,4 @@ log("PID: " .. C.getpid())
 ```
 
 ## 致谢
-- **LuaJIT [Mike Pall](https://github.com/LuaJIT/LuaJIT)**
+- **[LuaJIT](https://github.com/LuaJIT/LuaJIT)**
