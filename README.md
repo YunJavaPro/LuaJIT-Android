@@ -35,3 +35,6 @@ ffi.cdef[[
 
 local C = ffi.C
 log("PID: " .. C.getpid())
+
+## 致谢
+- **LuaJIT [Mike Pall](https://github.com/LuaJIT/LuaJIT)**
