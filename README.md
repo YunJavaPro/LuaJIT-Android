@@ -3,7 +3,7 @@
 
 ## 已配置
 - LuaJIT 编译支持
-- Android 架构：rm64-v8a
+- Android 架构：rm64-v8a，armeabi-v7a
 - 在 Android 运行 LuaJIT
 - 支持 FFI 调用 C 语言 / 系统 SO
 - 支持位运算库 bit
