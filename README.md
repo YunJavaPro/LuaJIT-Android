@@ -1,5 +1,5 @@
 # LuaJIT-Android
-面向 Android 平台的 LuaJIT 集成项目，开箱即用
+面向 Android 平台的 LuaJIT 集成项目
 
 ## 已配置
 - LuaJIT 完整编译支持
@@ -7,8 +7,7 @@
 - 支持在 Android 直接运行 LuaJIT
 - 支持 FFI 调用 C 语言 / 系统 SO
 - 支持位运算库 bit
-- 无需额外配置 NDK / 编译脚本
-- 可直接运行 Lua 脚本、FFI、高性能 C 调用
+- 无需额外配置 NDK
 
 ## 适用场景
 - Android 插件开发
